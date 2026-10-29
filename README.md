@@ -503,8 +503,6 @@ attends to crash zones or learned causal accident features.
 ---
 
 ## 👨‍💻 Authors
-
-**Aahan Singh** — A010175723002<br>
 **Kartik Singh Rana** — A010175723015<br>
 B.Sc in Artificial Intelligence & Data Science (Hons.)<br>
 Amity Institute of Information Technology
