@@ -1,0 +1,9 @@
+streamlit>=1.57
+plotly>=5.20
+pandas
+numpy
+Pillow
+opencv-python
+torch
+torchvision
+timm

@@ -1,0 +1,4 @@
+"","No_Accident","Minor_Accident","Severe_Accident"
+"No_Accident",46,6,1
+"Minor_Accident",1,23,0
+"Severe_Accident",1,0,23

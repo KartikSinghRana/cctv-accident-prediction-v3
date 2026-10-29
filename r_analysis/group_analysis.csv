@@ -1,0 +1,4 @@
+"group_id","samples","errors","error_rate","most_common_error"
+"No_Accident",53,7,0.132075471698113,"No_Accident -> Minor_Accident"
+"Minor_Accident",24,1,0.0416666666666667,"Minor_Accident -> No_Accident"
+"Severe_Accident",24,1,0.0416666666666667,"Severe_Accident -> No_Accident"

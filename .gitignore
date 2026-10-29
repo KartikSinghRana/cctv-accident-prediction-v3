@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local datasets; restore these separately when needed.
+/dataset3/
+/data/processed/
+/data/raw/
+
+# The separate larger-dataset project is not part of this original model repo.
+/cctv_severity_project/
+
+# Optional traced export; the dashboard uses best_model.pth.
+/checkpoints/model_traced.pt
+
+# The executed notebook and these figures embed source-dataset images.
+/road_accident_severity_cnn_v2.ipynb
+/sample_batch.png
+/gradcam.png
+/road_accident_final_paper.pdf
